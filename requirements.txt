@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+numpy==2.0.2
+scikit-learn==1.6.1
+joblib==1.5.3
+pillow
+opencv-python
+scikit-image
+torch
+torchvision
+python-multipart
